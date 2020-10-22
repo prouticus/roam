@@ -69,6 +69,7 @@
 
 .rm-block-text {
     max-width: 100% !important;
+	font-size: 10px;
   }
 
 /* Global Font style */
@@ -1087,6 +1088,7 @@ button.bp3-button.dont-focus-block[style="color: rgb(33, 37, 41); background: rg
 .block-border-left {
     margin-left   : 6px;
     border-radius : 0;
+    padding: 0 !important;
     padding: 0 !important;
     border-color: var(--body-text);
   }
